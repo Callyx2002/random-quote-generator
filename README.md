@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Random advice generator app](https://your-live-site-url.com)
+- Live Site URL: [Random advice generator app]([https://your-live-site-url.com](https://callyx2002.github.io/random-quote-generator))
 
 ### Built with
 
@@ -59,7 +59,6 @@ I'll continue learning JavaScript and follow the learning path on Frontend Maste
 
 ## Author
 
-- Website - [Caleb Arodu](https://www.your-site.com)
 - Frontend Mentor - [@Callyx2002](https://www.frontendmentor.io/profile/@Callyx2002)
 - Twitter - [@CalebArodu](https://www.twitter.com/@CalebArodu)
 - LinkedIn - [Caleb Arodu](https://ng.linkedin.com/in/caleb-arodu-208121249)
