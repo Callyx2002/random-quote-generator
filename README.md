@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Random advice generator app]([https://your-live-site-url.com](https://callyx2002.github.io/random-quote-generator))
+- Live Site URL: [Random advice generator app]([https://your-live-site-url.com](https://callyx2002.github.io/random-quote-generator)
 
 ### Built with
 
